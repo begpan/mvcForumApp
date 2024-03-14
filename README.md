@@ -1,10 +1,15 @@
-# React + Vite
+<h2>Forum App</h2>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is an MVC (Model-View-Controller) project created with React. Essentially, it allows users to create and read their posts. Additionally, various technologies such as toastify, axios, react-router-dom, json-server and tailwind were used in this project.
 
-Currently, two official plugins are available:
+<h3>Features</h3>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# mvcForumApp
-# mvcForumApp
+Create post: Users' posts. The created posts contain basic information such as title and content. </br>
+Posting Reading: Users' posts can be listed and viewed.</br>
+React Router DOM: React Router DOM was used to navigate between pages.</br>
+Toastify: Toastify is integrated to notify users about their interactions with notifications.</br>
+Axios: Axios library was used to make HTTP requirements with the server.</br>
+JSON Server: JSON Server is used as a simple JSON database server.</br>
+Tailwind CSS: Tailwind CSS is used to create UI quickly and specifically.</br>
+
+<h3>Screen Gif</h3>
