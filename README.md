@@ -13,3 +13,5 @@ JSON Server: JSON Server is used as a simple JSON database server.</br>
 Tailwind CSS: Tailwind CSS is used to create UI quickly and specifically.</br>
 
 <h3>Screen Gif</h3>
+
+![forum](https://github.com/begpan/mvcForumApp/assets/145170180/17de4eab-94a2-4ddc-adf7-758fa9526b87)
